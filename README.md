@@ -136,30 +136,7 @@ PostgreSQL / Supabase Configuration
 Create a PostgreSQL or Supabase database.
 Execute all SQL schema files.
 Configure database credentials in the .env file.
-Start backend server.
-📁 Project Structure
-project-management-software/
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── services/
-│   ├── layouts/
-│   └── styles/
-│
-├── backend/
-│   ├── controllers/
-│   ├── routes/
-│   ├── middleware/
-│   ├── models/
-│   ├── config/
-│   └── utils/
-│
-├── database/
-├── screenshots/
-├── public/
-├── README.md
+
 
 
 
