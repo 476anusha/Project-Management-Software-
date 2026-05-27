@@ -38,19 +38,28 @@ Figma
 Deployment Platforms
 Vercel / Netlify (Frontend)
 Render / Railway (Backend)
+
+
 ✨ Features and Functionalities Implemented
+
+
 🔐 User Authentication
 User Registration
 Login & Logout
 Secure JWT Authentication
 User Profile Management
 Password Security
+
+
+
 📂 Project Management
 Create New Projects
 Edit/Delete Projects
 Project Dashboard
 Project Status Tracking
 Team Assignment Management
+
+
 ✅ Task Management
 Create Tasks & Issues
 Assign Tasks to Users
@@ -58,29 +67,46 @@ Task Priorities
 Due Date Management
 Labels & Categories
 Task Status Updates
+
+
+
 📋 Kanban Board System
 Drag-and-Drop Task Management
 Workflow Columns
 Sprint & Backlog Management
+
+
+
 📊 Dashboard & Analytics
 Project Progress Statistics
 Team Performance Monitoring
 Task Completion Reports
 Analytics Visualization
+
+
 💬 Collaboration Features
 Comments on Tasks
 Activity Feed
 Notifications & Alerts
 Team Communication
+
+
+
 📱 Responsive Design
 Mobile Responsive Interface
 Tablet & Desktop Compatibility
 Modern UI/UX Design
 ⚙ Installation / Execution Steps
+
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/project-management-software.git
+
+
 2️⃣ Navigate to Project Folder
 cd project-management-software
+
+
 🚀 Frontend Setup
 Install Frontend Dependencies
 npm install
@@ -134,29 +160,9 @@ project-management-software/
 ├── screenshots/
 ├── public/
 ├── README.md
-└── project-report.pdf
-📸 Project Screenshots / Output
-🖥 Dashboard
 
-(Add Dashboard Screenshot Here)
 
-📋 Kanban Board
 
-(Add Kanban Board Screenshot Here)
-
-📊 Analytics Dashboard
-
-(Add Analytics Screenshot Here)
-
-🔐 Authentication Page
-
-(Add Login/Register Screenshot Here)
-
-📱 Responsive Mobile View
-
-(Add Mobile View Screenshot Here)
-
-📄 Repository Contents
 
 The GitHub repository contains:
 
